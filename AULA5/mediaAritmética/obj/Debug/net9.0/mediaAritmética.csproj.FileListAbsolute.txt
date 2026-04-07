@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\bin\Debug\net9.0\mediaAritmética.exe
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\bin\Debug\net9.0\mediaAritmética.deps.json
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\bin\Debug\net9.0\mediaAritmética.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\bin\Debug\net9.0\mediaAritmética.dll
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\bin\Debug\net9.0\mediaAritmética.pdb
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\obj\Debug\net9.0\mediaAritmética.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\obj\Debug\net9.0\mediaAritmética.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\obj\Debug\net9.0\mediaAritmética.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\obj\Debug\net9.0\mediaAritmética.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\obj\Debug\net9.0\mediaAritmética.sourcelink.json
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\obj\Debug\net9.0\mediaAritmética.dll
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\obj\Debug\net9.0\refint\mediaAritmética.dll
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\obj\Debug\net9.0\mediaAritmética.pdb
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\obj\Debug\net9.0\mediaAritmética.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\mediaAritmética\obj\Debug\net9.0\ref\mediaAritmética.dll

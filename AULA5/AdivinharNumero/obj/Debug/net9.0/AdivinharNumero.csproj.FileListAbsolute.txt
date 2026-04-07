@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\bin\Debug\net9.0\AdivinharNumero.exe
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\bin\Debug\net9.0\AdivinharNumero.deps.json
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\bin\Debug\net9.0\AdivinharNumero.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\bin\Debug\net9.0\AdivinharNumero.dll
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\bin\Debug\net9.0\AdivinharNumero.pdb
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\obj\Debug\net9.0\AdivinharNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\obj\Debug\net9.0\AdivinharNumero.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\obj\Debug\net9.0\AdivinharNumero.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\obj\Debug\net9.0\AdivinharNumero.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\obj\Debug\net9.0\AdivinharNumero.sourcelink.json
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\obj\Debug\net9.0\AdivinharNumero.dll
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\obj\Debug\net9.0\refint\AdivinharNumero.dll
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\obj\Debug\net9.0\AdivinharNumero.pdb
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\obj\Debug\net9.0\AdivinharNumero.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\AdivinharNumero\obj\Debug\net9.0\ref\AdivinharNumero.dll
