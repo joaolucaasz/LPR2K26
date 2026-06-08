@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\bin\Debug\net9.0\SomaDosImpares.exe
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\bin\Debug\net9.0\SomaDosImpares.deps.json
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\bin\Debug\net9.0\SomaDosImpares.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\bin\Debug\net9.0\SomaDosImpares.dll
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\bin\Debug\net9.0\SomaDosImpares.pdb
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\obj\Debug\net9.0\SomaDosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\obj\Debug\net9.0\SomaDosImpares.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\obj\Debug\net9.0\SomaDosImpares.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\obj\Debug\net9.0\SomaDosImpares.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\obj\Debug\net9.0\SomaDosImpares.sourcelink.json
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\obj\Debug\net9.0\SomaDosImpares.dll
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\obj\Debug\net9.0\refint\SomaDosImpares.dll
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\obj\Debug\net9.0\SomaDosImpares.pdb
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\obj\Debug\net9.0\SomaDosImpares.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR2K26\AULA5\SomaDosImpares\obj\Debug\net9.0\ref\SomaDosImpares.dll
