@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "cadrasto_De_heroes/1.0.0": {
+        "runtime": {
+          "cadrasto_De_heroes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cadrasto_De_heroes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

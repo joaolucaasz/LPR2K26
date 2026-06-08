@@ -1,0 +1,5 @@
+C:\Users\Alunos\Desktop\LPR2K26\Aula 04\LERNumero\bin\Release\net9.0\publish\LERNumero.exe
+C:\Users\Alunos\Desktop\LPR2K26\Aula 04\LERNumero\bin\Release\net9.0\publish\LERNumero.dll
+C:\Users\Alunos\Desktop\LPR2K26\Aula 04\LERNumero\bin\Release\net9.0\publish\LERNumero.deps.json
+C:\Users\Alunos\Desktop\LPR2K26\Aula 04\LERNumero\bin\Release\net9.0\publish\LERNumero.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR2K26\Aula 04\LERNumero\bin\Release\net9.0\publish\LERNumero.pdb

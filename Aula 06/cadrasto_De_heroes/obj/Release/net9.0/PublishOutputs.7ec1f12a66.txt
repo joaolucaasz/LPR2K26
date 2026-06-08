@@ -1,0 +1,5 @@
+C:\Users\Alunos\Desktop\LPR2K26\Aula 06\cadrasto_De_heroes\bin\Release\net9.0\publish\cadrasto_De_heroes.exe
+C:\Users\Alunos\Desktop\LPR2K26\Aula 06\cadrasto_De_heroes\bin\Release\net9.0\publish\cadrasto_De_heroes.dll
+C:\Users\Alunos\Desktop\LPR2K26\Aula 06\cadrasto_De_heroes\bin\Release\net9.0\publish\cadrasto_De_heroes.deps.json
+C:\Users\Alunos\Desktop\LPR2K26\Aula 06\cadrasto_De_heroes\bin\Release\net9.0\publish\cadrasto_De_heroes.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR2K26\Aula 06\cadrasto_De_heroes\bin\Release\net9.0\publish\cadrasto_De_heroes.pdb
