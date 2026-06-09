@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alunos\\Desktop\\LPR2K26\\Aula 05\\mediaAritmética\\mediaAritmética.csproj": {}
+    "C:\\Users\\Alunos\\Desktop\\LPR2K26\\Aula 05\\mediaAritmética\\mediaAritmética.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alunos\\Desktop\\LPR2K26\\Aula 05\\mediaAritmética\\mediaAritmética.csproj": {
+    "C:\\Users\\Alunos\\Desktop\\LPR2K26\\Aula 05\\mediaAritmética\\mediaAritmética.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alunos\\Desktop\\LPR2K26\\Aula 05\\mediaAritmética\\mediaAritmética.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\LPR2K26\\Aula 05\\mediaAritmética\\mediaAritmética.csproj",
         "projectName": "mediaAritmética",
-        "projectPath": "c:\\Users\\Alunos\\Desktop\\LPR2K26\\Aula 05\\mediaAritmética\\mediaAritmética.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Desktop\\LPR2K26\\Aula 05\\mediaAritmética\\mediaAritmética.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alunos\\Desktop\\LPR2K26\\Aula 05\\mediaAritmética\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Desktop\\LPR2K26\\Aula 05\\mediaAritmética\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
