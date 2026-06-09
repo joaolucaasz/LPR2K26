@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cadrasto_De_heroes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e874d5d93422c749a267c981b8d1e28fa603f4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+801b5f6d01c3b9fa45a9b5f05d40daaa6aa44a32")]
 [assembly: System.Reflection.AssemblyProductAttribute("cadrasto_De_heroes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cadrasto_De_heroes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
