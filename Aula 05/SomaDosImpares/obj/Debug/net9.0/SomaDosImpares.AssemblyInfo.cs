@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SomaDosImpares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dc6e58bf7a1c21f3969e979076e2d8e267293cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd21aaf1c68625cf5a2a6bfc776c7e1be20efbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("SomaDosImpares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SomaDosImpares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
