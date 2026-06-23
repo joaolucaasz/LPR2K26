@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mediaAritmética")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53c119e1a3a66fac94ef65d864b0efcce35b58c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c06c198a8b558c6c15d7905bf7f14ef45c772f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("mediaAritmética")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mediaAritmética")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
