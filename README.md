@@ -1,14 +1,6 @@
 💻 LPR 2K26 — Desenvolvimento de Sistemas
 
-«Repositório dedicado ao desenvolvimento das minhas habilidades em programação, reunindo estudos, exercícios e projetos realizados durante minha formação em Desenvolvimento de Sistemas.»
-
-<p align="center">"Status" (https://img.shields.io/badge/Status-Em%20desenvolvimento-2ea44f?style=flat-square)
-
-"C#" (https://img.shields.io/badge/C%23-Programming-512BD4?style=flat-square&logo=csharp&logoColor=white)
-
-"C++" (https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-</p>---
+«Repositório dedicado aos estudos, exercícios e projetos desenvolvidos durante minha formação em Desenvolvimento de Sistemas.»
 
 📚 Sobre o projeto
 
@@ -38,7 +30,9 @@ Durante o desenvolvimento das atividades, venho trabalhando conceitos fundamenta
 
 🛠️ Tecnologias
 
-Principais tecnologias utilizadas:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,visualstudio,vscode,git,github" />
+</p>Principais tecnologias utilizadas:
 
 - C#
 - C++
@@ -89,7 +83,7 @@ Este repositório representa uma parte da minha evolução como desenvolvedor em
 
 👨‍💻 Autor
 
-João Lucas
+João Lucas Fernandes Costa
 
 🎓 Estudante de Desenvolvimento de Sistemas
 💻 Desenvolvedor em formação
