@@ -45,7 +45,9 @@ O foco principal atualmente está no desenvolvimento da lógica de programação
 
 🛠️ Tecnologias
 
-Principais tecnologias utilizadas:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,visualstudio,vscode,git,github" />
+</p>Principais tecnologias utilizadas:
 
 - C#
 - C++
