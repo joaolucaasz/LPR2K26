@@ -1,59 +1,44 @@
 💻 LPR 2K26 — Desenvolvimento de Sistemas
 
-«Repositório dedicado aos estudos, exercícios e projetos desenvolvidos durante minha formação em Desenvolvimento de Sistemas.»
+«Repositório dedicado ao desenvolvimento das minhas habilidades em programação, reunindo estudos, exercícios e projetos realizados durante minha formação em Desenvolvimento de Sistemas.»
 
----
+<p align="center">"Status" (https://img.shields.io/badge/Status-Em%20desenvolvimento-2ea44f?style=flat-square)
+
+"C#" (https://img.shields.io/badge/C%23-Programming-512BD4?style=flat-square&logo=csharp&logoColor=white)
+
+"C++" (https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</p>---
 
 📚 Sobre o projeto
 
-Este repositório documenta minha evolução no aprendizado de programação ao longo do curso, reunindo atividades práticas, exercícios e projetos desenvolvidos durante as aulas.
+O LPR 2K26 acompanha minha trajetória de aprendizado em programação durante o curso de Desenvolvimento de Sistemas.
 
-O foco principal atualmente está no desenvolvimento da lógica de programação utilizando C# e C++, explorando conceitos fundamentais para a formação de um desenvolvedor.
+Aqui são registrados exercícios, atividades práticas e projetos desenvolvidos ao longo da formação, permitindo acompanhar minha evolução na construção de soluções utilizando diferentes conceitos e linguagens.
+
+O foco atual está no desenvolvimento da lógica de programação, com estudos principalmente em C# e C++.
 
 ---
 
-🧠 Conteúdos estudados
+🧠 Conhecimentos desenvolvidos
 
-Ao longo das aulas, são trabalhados conceitos como:
+Durante o desenvolvimento das atividades, venho trabalhando conceitos fundamentais como:
 
-- 💡 Lógica de programação
+- 💡 Lógica de programação e resolução de problemas
 - 🧩 Algoritmos
-- 🔄 Estruturas de controle
 - 📦 Variáveis e tipos de dados
-- 🖥️ Programação em C#
-- ⚙️ Programação em C++
-- 🧱 Fundamentos de orientação a objetos
-- 🚀 Desenvolvimento de exercícios e projetos práticos
-
----
-
-📂 Organização
-
-O conteúdo está organizado de acordo com as aulas realizadas:
-
-LPR2K26/
-│
-├── Aula 02/
-├── Aula 03/
-├── Aula 04/
-├── Aula 05/
-├── Aula 06/
-├── Aula 07/
-├── Aula 08/
-├── Aula 09/
-├── Aula 10/
-│
-└── README.md
-
-Essa organização permite acompanhar de forma cronológica a evolução dos conteúdos e das atividades desenvolvidas.
+- 🔄 Estruturas condicionais e de repetição
+- ⚙️ Funções e métodos
+- 🖥️ Fundamentos de C#
+- 🔧 Fundamentos de C++
+- 🧱 Conceitos iniciais de orientação a objetos
+- 🚀 Desenvolvimento de aplicações e exercícios práticos
 
 ---
 
 🛠️ Tecnologias
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,visualstudio,vscode,git,github" />
-</p>Principais tecnologias utilizadas:
+Principais tecnologias utilizadas:
 
 - C#
 - C++
@@ -64,39 +49,58 @@ Essa organização permite acompanhar de forma cronológica a evolução dos con
 
 ---
 
-🎯 Objetivo
+🚀 Metodologia de aprendizado
 
-O principal objetivo deste repositório é registrar minha evolução como desenvolvedor, colocando em prática os conceitos aprendidos em sala de aula e construindo uma base sólida em programação.
+Busco transformar cada conteúdo estudado em prática, seguindo um processo contínuo:
 
-Este projeto faz parte da minha jornada na área de tecnologia e será atualizado conforme novos conteúdos, exercícios e projetos forem desenvolvidos.
+📖 Estudar
+   ↓
+🧠 Compreender
+   ↓
+💻 Implementar
+   ↓
+🧪 Testar
+   ↓
+🐛 Corrigir
+   ↓
+🚀 Evoluir
+
+Esse processo me permite não apenas aprender a sintaxe das linguagens, mas também desenvolver raciocínio lógico, organização e capacidade de resolução de problemas.
 
 ---
 
 📈 Evolução
 
-Aprender
-   ↓
-Praticar
-   ↓
-Errar
-   ↓
-Corrigir
-   ↓
-Evoluir
-   ↓
-Construir
+Este projeto está em constante desenvolvimento.
 
-«Cada exercício representa mais um passo na minha evolução como desenvolvedor. 🚀»
+Novos exercícios e projetos serão adicionados conforme avanço na formação e amplio meus conhecimentos em programação.
+
+«🎯 O objetivo não é apenas escrever código, mas entender como e por que ele funciona.»
+
+---
+
+🎯 Objetivo
+
+Construir uma base sólida em programação e desenvolver as habilidades necessárias para criar projetos cada vez mais completos.
+
+Este repositório representa uma parte da minha evolução como desenvolvedor em formação e serve como registro prático dos conhecimentos adquiridos ao longo dessa jornada.
 
 ---
 
 👨‍💻 Autor
 
-João Lucas Fernandes Costa
+João Lucas
 
-🎓 Desenvolvimento de Sistemas
-💻 Estudante e desenvolvedor em formação
+🎓 Estudante de Desenvolvimento de Sistemas
+💻 Desenvolvedor em formação
+🚀 Interessado em programação, tecnologia e desenvolvimento de projetos
 
----
+<p align="center"><a href="https://github.com/joaolucaasz">
+<img src="https://img.shields.io/badge/GitHub-joaolucaasz-181717?style=for-the-badge&logo=github&logoColor=white">
+</a></p>---
 
-⭐ Este repositório acompanha minha jornada de aprendizado em programação.
+<p align="center">
+  <strong>⭐ Obrigado por visitar este repositório!</strong>
+</p><p align="center">
+  <i>Estudar • Praticar • Construir • Evoluir</i>
+</p>
