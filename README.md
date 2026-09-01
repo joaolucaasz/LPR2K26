@@ -5,48 +5,42 @@ Desenvolvimento de Sistemas
 <p>
   <strong>Estudos • Prática • Projetos • Evolução</strong>
 </p><p>
-  Repositório dedicado ao desenvolvimento das minhas habilidades em programação,
-  reunindo estudos, exercícios e projetos realizados durante minha formação.
-</p><p>
-  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-2ea44f?style=for-the-badge">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</p></div>---
+  Repositório dedicado aos meus estudos, exercícios e projetos desenvolvidos
+  durante minha formação em <strong>Desenvolvimento de Sistemas</strong>.
+</p><br><img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-2ea44f?style=for-the-badge" alt="Status"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></div>---
 
 📚 Sobre o projeto
 
-O LPR 2K26 é um repositório criado para acompanhar minha evolução durante os estudos de programação no curso de Desenvolvimento de Sistemas.
+O LPR 2K26 é um repositório criado para documentar minha evolução no aprendizado de programação durante o curso de Desenvolvimento de Sistemas.
 
-Aqui são reunidos exercícios, atividades práticas e projetos desenvolvidos ao longo da formação, permitindo acompanhar a evolução dos conhecimentos adquiridos.
+Aqui são reunidos exercícios, atividades práticas e projetos desenvolvidos ao longo das aulas, permitindo acompanhar o desenvolvimento dos meus conhecimentos e habilidades.
 
-O foco atual está no desenvolvimento da lógica de programação, utilizando principalmente C# e C++.
+O foco principal atualmente está no desenvolvimento da lógica de programação, utilizando C# e C++ para aplicar na prática os conceitos estudados.
 
 ---
 
-🧠 Conhecimentos desenvolvidos
+🧠 Conteúdos estudados
 
 <table>
-<tr>
-<td width="50%">💡 Fundamentos
+<tr><td width="50%" align="center">💡 Fundamentos
 
-- Lógica de programação
-- Algoritmos
-- Variáveis e tipos de dados
-- Operadores e expressões
-- Estruturas condicionais
-- Estruturas de repetição
+<br>🔹 Lógica de programação
+🔹 Algoritmos
+🔹 Variáveis e tipos de dados
+🔹 Operadores e expressões
+🔹 Estruturas condicionais
+🔹 Estruturas de repetição
 
-</td><td width="50%">⚙️ Programação
+</td><td width="50%" align="center">⚙️ Programação
 
-- C#
-- C++
-- Funções e métodos
-- Organização de código
-- Resolução de problemas
-- Fundamentos de orientação a objetos
+<br>🔹 C#
+🔹 C++
+🔹 Funções e métodos
+🔹 Organização de código
+🔹 Resolução de problemas
+🔹 Fundamentos de orientação a objetos
 
-</td>
-</tr>
+</td></tr>
 </table>---
 
 🛠️ Tecnologias
@@ -64,60 +58,130 @@ Principais tecnologias utilizadas:
 
 🚀 Processo de aprendizado
 
-Meu objetivo é transformar cada conteúdo estudado em prática.
+<div align="center"><table>
+<tr><td align="center" width="170">📖
 
-<div align="center">📖 Estudar| 🧠 Compreender| 💻 Implementar
-Aprender o conceito| Entender como funciona| Transformar em código
+<strong>ESTUDAR</strong>
 
-⬇️
+<br><br>
 
-🧪 Testar| 🐛 Corrigir| 🚀 Evoluir
-Verificar o resultado| Identificar problemas| Melhorar continuamente
+Aprender novos conceitos e fundamentos.
 
-</div>---
+</td><td align="center" width="45"><strong>→</strong>
+
+</td><td align="center" width="170">🧠
+
+<strong>COMPREENDER</strong>
+
+<br><br>
+
+Entender como e por que as coisas funcionam.
+
+</td><td align="center" width="45"><strong>→</strong>
+
+</td><td align="center" width="170">💻
+
+<strong>IMPLEMENTAR</strong>
+
+<br><br>
+
+Transformar conhecimento em código.
+
+</td></tr><tr><td colspan="5" align="center"><br>⬇️
+
+<br></td></tr><tr><td align="center">🧪
+
+<strong>TESTAR</strong>
+
+<br><br>
+
+Verificar o funcionamento e os resultados.
+
+</td><td align="center"><strong>←</strong>
+
+</td><td align="center">🐛
+
+<strong>CORRIGIR</strong>
+
+<br><br>
+
+Identificar erros e buscar soluções.
+
+</td><td align="center"><strong>←</strong>
+
+</td><td align="center">🚀
+
+<strong>EVOLUIR</strong>
+
+<br><br>
+
+Aprender com a prática e melhorar continuamente.
+
+</td></tr></table><br><blockquote>
+  <strong>💡 Aprender → Praticar → Errar → Corrigir → Evoluir</strong>
+</blockquote></div>---
 
 📈 Evolução
 
-«Este repositório está em constante desenvolvimento.»
+<div align="center">🟢 Em constante desenvolvimento
 
-Conforme avanço na formação, novos exercícios, conceitos e projetos serão adicionados.
+</div>Este repositório acompanha minha evolução ao longo da formação.
 
-A proposta é utilizar este espaço não apenas para armazenar códigos, mas também para registrar minha evolução como desenvolvedor.
+Conforme novos conteúdos são aprendidos, novos exercícios e projetos serão adicionados, criando um histórico prático do meu desenvolvimento como programador.
 
 <details>
-<summary>🔎 O que estou buscando desenvolver?</summary><br>- 🧠 Raciocínio lógico
-- 🧩 Capacidade de resolução de problemas
-- 💻 Boas práticas de programação
-- 📚 Organização de código
-- 🔧 Capacidade de identificar e corrigir erros
-- 🚀 Desenvolvimento de projetos cada vez mais completos
+<summary><strong>🔎 O que estou buscando desenvolver?</strong></summary><br>🧠 Raciocínio lógico
+
+Capacidade de analisar problemas e encontrar soluções através da programação.
+
+💻 Programação
+
+Desenvolvimento de códigos utilizando diferentes linguagens e conceitos.
+
+🧩 Resolução de problemas
+
+Transformar problemas em soluções estruturadas e eficientes.
+
+🐛 Debugging
+
+Aprender a identificar, compreender e corrigir erros.
+
+📚 Boas práticas
+
+Desenvolver códigos cada vez mais organizados, claros e eficientes.
+
+🚀 Projetos
+
+Aplicar os conhecimentos adquiridos em projetos cada vez mais completos.
 
 </details>---
 
 🎯 Objetivo
 
-Construir uma base sólida em programação e desenvolver as habilidades necessárias para transformar ideias em soluções através do código.
+Meu objetivo é construir uma base sólida em programação, aprimorar minha lógica e desenvolver a capacidade de transformar problemas e ideias em soluções através do código.
 
-Este projeto representa uma parte da minha trajetória na área de tecnologia e acompanha meu desenvolvimento como programador em formação.
+Este repositório representa uma parte da minha trajetória na área de tecnologia e acompanha minha evolução como desenvolvedor em formação.
 
 ---
 
 👨‍💻 Autor
 
-<div align="center"><img src="https://github.com/joaolucaasz.png" width="120px" style="border-radius: 50%;" alt="João Lucas">João Lucas
+<div align="center"><img src="https://github.com/joaolucaasz.png" width="120" alt="João Lucas"><br><br>
 
-Desenvolvimento de Sistemas
-
-💻 Desenvolvedor em formação
-🎓 Estudante de tecnologia
-🚀 Aprendendo e construindo projetos
-
-<br><a href="https://github.com/joaolucaasz"><img src="https://img.shields.io/badge/GitHub-@joaolucaasz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @joaolucaasz"></a></div>---
+<h3>João Lucas</h3><p>
+  <strong>🎓 Desenvolvimento de Sistemas</strong>
+</p><p>
+  💻 Estudante e desenvolvedor em formação<br>
+  🚀 Interessado em programação e tecnologia<br>
+  📚 Sempre buscando aprender e evoluir
+</p><br><a href="https://github.com/joaolucaasz"><img src="https://img.shields.io/badge/GitHub-@joaolucaasz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @joaolucaasz"></a></div>---
 
 <div align="center">⭐ Obrigado por visitar este repositório!
 
-<br>Estudar • Praticar • Construir • Evoluir
+<br><strong>Estudar • Praticar • Construir • Evoluir</strong>
 
-<br><sub>🚀 Cada linha de código é mais um passo na minha evolução.</sub>
+<br><br>
+
+<sub>🚀 Cada linha de código representa mais um passo na minha evolução.</sub>
 
 </div>
