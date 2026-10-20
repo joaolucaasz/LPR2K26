@@ -1,0 +1,14 @@
+# .NET build output
+**/bin/
+**/obj/
+**/net9.0/
+
+# Compiled binaries and caches
+**/output/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Visual Studio
+.vs/
